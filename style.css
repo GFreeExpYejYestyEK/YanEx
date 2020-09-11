@@ -1,0 +1,103 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  background-color: #FAF8DA;
+  margin: 2em;
+  background-image: url("https://file.mockplus.com/image/2018/04/943d662b-25c9-42d6-9fd2-cc36d2ffab76.gif");
+  --background-image: url("https://codemyui.com/wp-content/uploads/2019/06/Shooting-Star-Background-in-Pure-CSS-1.gif");
+  --background-size: cover;
+  --height: 100vh;
+  --padding: 0;
+  --margin: 0;
+  --background-image: url("https://i.pinimg.com/originals/7b/b4/a1/7bb4a123232e327b939ce2323ff37c11.gif");
+  --background-image: url("https://i.pinimg.com/originals/7b/b4/a1/7bb4a123232e327b939ce2323ff37c11.gif");
+  --background-image: url("https://i.pinimg.com/originals/7b/b4/a1/7bb4a123232e327b939ce2323ff37c11.gif");
+  --background-image: url("https://i.pinimg.com/originals/7b/b4/a1/7bb4a123232e327b939ce2323ff37c11.gif");
+  background-repeat: repeat;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+html {
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+
+h2.b {
+  font-family: Comic Sans MS, cursive, sans-serif;
+  font-weight: 900;
+  color: #373fff;
+}
+
+lesk {
+  font-family: Kumbh Sans, sans-serif;
+  font-weight: 900;
+  color: #373fff;
+}
+
+h2 {
+  font-weight: 900;
+  color: #373fff;
+}
+
+p {
+  font-style: normal;
+  color: #373fff;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+
+p.normal {
+  font-weight: normal;
+}
+
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a {
+  color: White;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
+
+.hidden {
+  display: none; }
